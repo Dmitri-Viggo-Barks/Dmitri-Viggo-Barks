@@ -20,7 +20,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           username: Dmitri-Viggo-Barks
-          topic: showcase
+          topic: wip-current
           format: card
           title: ""
           show_description: true
