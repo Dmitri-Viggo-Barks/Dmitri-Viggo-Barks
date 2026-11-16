@@ -18,7 +18,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=Dmitri-Viggo-Barks&repo=ShadeGlide
+          options: username=Dmitri-Viggo-Barks&repo=ShadeGlide&theme=blue_navy&border_radius=12&show_owner=true&card_width=600
           path: profile/pin-worked--on.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
