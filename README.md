@@ -31,10 +31,11 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge) &emsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 <br/>
-    <h3> Known Microcontroller Frameworks </h3>
+    <h3> Known Microcontroller Development Frameworks </h3>
 
 ![ESP-IDF](https://img.shields.io/badge/-ESP--IDF-white?style=for-the-badge&logo=espressif) &emsp;
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white) &emsp;
+![PlatformIO](https://img.shields.io/badge/-platformio-orange?style=for-the-badge&logo=platformio&logoColor=white)
 
 <br/>
     <h3> Currently Learning and Interested In</h3>
