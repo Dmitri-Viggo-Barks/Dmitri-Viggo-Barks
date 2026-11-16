@@ -15,19 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
-    <h3>Currently Building</h3>
-    <!-- SHOWCASE-START -->
-<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 4px">
-
-<a href="https://github.com/Dmitri-Viggo-Barks/ShadeGlide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dmitri-Viggo-Barks&repo=ShadeGlide&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=true&show_forks=false&show_topics=false" />
-</a>
-
+<div align="center">
+  <h3>Currently Building</h3>
+  <a href="https://github.com/Dmitri-Viggo-Barks/ShadeGlide">
+    <img src="./profile/pin-worked--on.svg" alt="ShadeGlide" />
+  </a>
 </div>
-
-
----
-*Updated on November 16, 2026*
-
-<!-- SHOWCASE-END -->
