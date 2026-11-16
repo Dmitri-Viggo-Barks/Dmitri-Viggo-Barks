@@ -1,8 +1,8 @@
 
       <svg
-        width="400"
+        width="600"
         height="150"
-        viewBox="0 0 400 150"
+        viewBox="0 0 600 150"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #2f80ed;
+            fill: #82AAFF;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,15 +22,15 @@
           }
           
     .description {
-      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;fill: #434d58;
+      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;fill: #82AAFF;
       
     }
-    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #82AAFF }
     .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
-    .badge rect { opacity: 0.2; stroke: #434d58 }
-    .badge text { fill: #434d58 }
+    .badge rect { opacity: 0.2; stroke: #82AAFF }
+    .badge text { fill: #82AAFF }
 
-    .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #82AAFF }
     .stagger {
       opacity: 0;
       animation: fadeInAnimation 0.3s ease-in-out forwards;
@@ -38,7 +38,7 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #586069;
+      fill: #82AAFF;
       display: block;
     }
   
@@ -78,11 +78,11 @@
           class="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="12"
           height="99%"
-          stroke="#e4e2e2"
-          width="399"
-          fill="#fffefe"
+          stroke="#ffffff"
+          width="599"
+          fill="#000000"
           stroke-opacity="1"
         />
 
@@ -109,7 +109,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >ShadeGlide</text>
+      >Dmitri-Viggo-Barks/ShadeGlide</text>
     </g>
       </g>
     
@@ -122,7 +122,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">A small embedded systems project about a compact curtain</tspan><tspan dy="1.2em" x="25">Rail Bot that move curtains by moving along the curtain</tspan><tspan dy="1.2em" x="25">railing, and commanded wirelessly by a Smart Switch. Both...</tspan>
+      <tspan dy="1.2em" x="25">A small embedded systems project about a compact curtain Rail Bot that move curtains by</tspan><tspan dy="1.2em" x="25">moving along the curtain railing, and commanded wirelessly by a Smart Switch. Both powered</tspan><tspan dy="1.2em" x="25">by a battery and controlled by an ESP32-C3 Super Mini MCU, with the Rail Bot moving with a...</tspan>
     </text>
 
     <g transform="translate(30, 75)">
