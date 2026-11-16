@@ -6,11 +6,15 @@
     <br/>
     <sub> I am </sub>
     <h1> Dmitri Viggo Barks </h1>
-
+    
+![sex-tag](https://img.shields.io/badge/-%E2%99%82%EF%B8%8F%20he%20%2F%20him-gray?style=flat) &emsp;
+![age-tag](https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%A6%B1%EF%B8%8F20%20Years%20Old-gray?style=flat) &emsp;
+![college-education-tag](https://img.shields.io/badge/-%F0%9F%8F%AB%EF%B8%8F%20Ateneo%20de%20Zamboanga%20University-gray?style=flat) &emsp;
+![nationality-tag](https://img.shields.io/badge/-%F0%9F%87%B5%F0%9F%87%AD%EF%B8%8FFilipino-gray?style=flat)
+    
 3rd Year College student enrolled in a Computer Engineering program in the Philippines striving to break into Embedded Software Engineering, Firmware Engineering, or Embedded Systems, or areas similar to those
 <br/>
 
-<sub><i> he/him &ensp;</sub><small>|</small><sub>&ensp; 20 Years Old &ensp;</sub><small>|</small><sub>&ensp; Ateneo de Zamboanga University </i></sub>
 </div>
 
 ---
