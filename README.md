@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <div align=center>
     <h3>Currently Building</h3>
     <!-- SHOWCASE-START -->
-## 🚀 Showcase Projects
-
 <div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 4px">
 
 <a href="https://github.com/Dmitri-Viggo-Barks/ShadeGlide">
